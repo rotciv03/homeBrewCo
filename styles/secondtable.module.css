@@ -1,0 +1,15 @@
+.totalprice {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 4rem;
+}
+.totaltable {
+  width: 100%;
+  max-width: 650px;
+  border-top: 3px solid hsla(7, 88%, 47%, 0.801);
+  margin-bottom: 3.5rem;
+}
+.alignright {
+  text-align: right;
+  padding: 10px 20px;
+}

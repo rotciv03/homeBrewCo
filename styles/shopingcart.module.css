@@ -1,0 +1,21 @@
+.cartcontainer {
+  padding: 0 5rem;
+}
+.tableitems {
+  width: 100%;
+  padding-top: 20px;
+  overflow: hidden;
+  border-spacing: 0 5rem;
+}
+.th {
+  text-align: left;
+  border-bottom: lightgrey 1px solid;
+  padding: 0.5rem;
+}
+
+
+
+.alignright {
+  text-align: right;
+  padding: 10px 20px;
+}

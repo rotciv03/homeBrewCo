@@ -1,0 +1,14 @@
+.foot {
+  position: absolute;
+  background-color: rgba(152, 93, 22);
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid rgba(138, 37, 37, 0.3);
+  justify-content: center;
+  align-items: center;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}

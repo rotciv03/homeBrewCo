@@ -1,0 +1,36 @@
+.card {
+  width: 270px;
+  margin-top: 1rem;
+  position: relative;
+}
+
+.cardImg {
+  height: 270px;
+  width: 270px;
+  background-size: cover;
+  margin-bottom: 0.5rem;
+}
+.prodInfoContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.h4 {
+  margin-bottom: 4rem;
+}
+.p {
+  height: 9ch;
+  margin-bottom: 3rem;
+  line-height: 1.5;
+  overflow: hidden;
+}
+.btn {
+  background-color: hsla(7, 88%, 47%, 0.801);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 15px;
+  cursor: pointer;
+  border: none;
+  position: absolute;
+  bottom: 0;
+}

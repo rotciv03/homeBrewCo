@@ -1,0 +1,33 @@
+.container {
+  min-height: 100vh;
+}
+
+.contentContainer {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content {
+  background-position: 50% 86%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 40vh;
+}
+.h2 {
+  color: white;
+  font-size: 3.5rem;
+}
+.productContainer {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 10rem 3rem;
+  margin-top: 5rem;
+  margin-bottom: 6rem;
+}

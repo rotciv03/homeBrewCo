@@ -1,0 +1,25 @@
+.productinfo {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.img {
+  height: 5rem;
+  width: 5rem;
+  margin-right: 2rem;
+}
+.input {
+  width: 2.5rem;
+}
+.remove {
+  color: hsla(7, 88%, 47%, 0.801);
+  border: none;
+  background: transparent;
+}
+.remove:hover {
+  cursor: pointer;
+}
+.alignright {
+  text-align: right;
+  padding: 10px 20px;
+}
